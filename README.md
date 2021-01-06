@@ -7,6 +7,6 @@ SKILLS: [Js. Flutter. Python. Ixd. UI]
 
 - 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate on projects with ginger
-- 💬 Ask me about design ad flutter
+- 💬 Ask me about design and flutter
 - 📫 Contact Me: 🤙🏽 [Click ME](https://www.colesolomon.me "Portfolio")
 - ⚡ Fun fact: I support Barcelona ⚽️  and I love playing games 🎮

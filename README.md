@@ -1,4 +1,4 @@
-### Hi there 👋 Cole E. Solomon
+### Hi folks 👋 Cole E. Solomon here
 
 
 A User Xperience Engineer showing versatility as an Interaction designer and a developer 

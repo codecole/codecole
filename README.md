@@ -5,7 +5,7 @@ A User Xperience Engineer showing versatility as an Interaction designer and a d
 
 SKILLS: [Js. Flutter. Python. Ixd. UI]
 
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently Extended Reality
 - 👯 I’m looking to collaborate on projects with ginger
 - 💬 Ask me about design and flutter
 - 📫 Contact Me: 🤙🏽 [Click ME](https://www.colesolomon.me "Portfolio")

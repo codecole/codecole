@@ -1,9 +1,9 @@
 ### Hi folks 👋 Cole E. Solomon here
 
 
-A User Xperience Engineer showing versatility as an Interaction designer and a developer 
+A User Xperience Engineer showing versatility as an AR designer and a developer 
 
-SKILLS: [Js. Flutter. Python. Ixd. UI]
+SKILLS: [Js. Flutter. AR. Ixd. UX]
 
 - 🌱 I’m currently learning Extended Reality
 - 👯 I’m looking to collaborate on projects with ginger
